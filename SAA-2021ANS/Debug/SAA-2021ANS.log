@@ -1,0 +1,19 @@
+﻿  CodeGeneration.cpp
+D:\kurs2021\SAA-2021\SAA-2021ANS\CodeGeneration.cpp(23,16): warning C4101: func: неиспользованная локальная переменная
+D:\kurs2021\SAA-2021\SAA-2021ANS\CodeGeneration.cpp(619,14): warning C4129: e: неизвестная escape-последовательность
+  FST.cpp
+D:\kurs2021\SAA-2021\SAA-2021ANS\FST.cpp(118,36): warning C4267: инициализация: преобразование из "size_t" в "short"; возможна потеря данных
+D:\kurs2021\SAA-2021\SAA-2021ANS\FST.cpp(1364,26): warning C4018: <: несоответствие типов со знаком и без знака
+  IT.cpp
+D:\kurs2021\SAA-2021\SAA-2021ANS\IT.cpp(53,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\kurs2021\SAA-2021\SAA-2021ANS\IT.cpp(160,22): warning C4018: <: несоответствие типов со знаком и без знака
+  In.cpp
+D:\kurs2021\SAA-2021\SAA-2021ANS\In.cpp(22,13): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+  LT.cpp
+  Log.cpp
+  MFST.cpp
+  NotaciaPolska.cpp
+  SAA-2021.cpp
+  Semantic.cpp
+  Создание кода...
+  SAA-2021ANS.vcxproj -> D:\kurs2021\SAA-2021\Debug\SAA-2021ANS.exe
